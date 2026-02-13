@@ -1,4 +1,4 @@
-# 💼 SmartPocket – AI-Powered Student Digital Wallet + Financial Coach
+# 💼 SmartPocket –  Digital Wallet 
 
 ## 🎯 Problem Statement
 
